@@ -1,10 +1,2 @@
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-  - firstname: ["Nathan", "N."]
-
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
