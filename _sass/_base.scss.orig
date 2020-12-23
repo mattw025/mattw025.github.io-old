@@ -57,8 +57,12 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
+<<<<<<< HEAD
+    font-family: monospace;
+=======
 //    font-family: monospace;
-    font-size: 1.2rem;
+    font-size: 0.8rem;
+>>>>>>> update about and conferences pages
     p {
       display: inline-block;
       margin: 0;
@@ -188,8 +192,13 @@ blockquote {
 
 .social {
   text-align: center;
+<<<<<<< HEAD
   .contact-icons {
+    font-size: 4rem;
+=======
+  .contact-icon {
     font-size: 3rem;
+>>>>>>> update about and conferences pages
     a {
       i::before {
         color: var(--global-text-color);
