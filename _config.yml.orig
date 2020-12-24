@@ -12,8 +12,12 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
+<<<<<<< HEAD
 icon: 🔥 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
+=======
+url: "https://www.mattwong.co.uk/" # the base hostname & protocol for your site
+>>>>>>> update config
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -62,7 +66,7 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
-contact_note: 
+contact_note:
 
 google_analytics: UA-100612241-2 # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -72,7 +76,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # -----------------------------------------------------------------------------
 
 blog_name: # your blog must have a name for it to show up in the nav bar
-blog_description: 
+blog_description:
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -147,12 +151,8 @@ github: [metadata]
 
 scholar:
 
-<<<<<<< HEAD
-  last_name: Einstein
-  first_name: [Albert, A.]
-=======
   last_name: Wong
->>>>>>> update about and conferences pages
+  first_name: [Albert, A.]
 
   style: chicago-fullnote-bibliography
   locale: en
@@ -238,6 +238,9 @@ mdb:
 popper:
   version: "2.4.4"
   integrity: "sha512-eUQ9hGdLjBjY3F41CScH3UX+4JDSI9zXeroz7hJ+RteoCaY+GP/LDoM8AO+Pt+DRFw3nXqsjh9Zsts8hnYv8/A=="
+<<<<<<< HEAD
 medium_zoom:
   version: "1.0.6"
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
+=======
+>>>>>>> update config
