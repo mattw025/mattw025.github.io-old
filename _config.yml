@@ -85,6 +85,12 @@ disqus_shortname: # put your disqus shortname
 # Collections
 # -----------------------------------------------------------------------------
 
+defaults:
+  - scope:
+      type: talks
+    values:
+      layout: reveal
+
 collections:
   news:
     defaults:
