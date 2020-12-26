@@ -13,6 +13,5 @@ group :jekyll_plugins do
 <<<<<<< HEAD
     gem 'webrick'
 =======
-    gem 'revealify.rb'
->>>>>>> try to use revealify and beautify pages
+>>>>>>> try to use revealify
 end
