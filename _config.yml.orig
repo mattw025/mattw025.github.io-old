@@ -141,10 +141,9 @@ plugins:
 # Extras
 github: [metadata]
 =======
-  - Nokogiri
   # - bootstrap
   # - material-sass
->>>>>>> remove revealify
+>>>>>>> remove nokogiri
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
