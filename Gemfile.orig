@@ -10,5 +10,9 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'unicode_utils'
+<<<<<<< HEAD
     gem 'webrick'
+=======
+    gem 'revealify.rb'
+>>>>>>> try to use revealify and beautify pages
 end
