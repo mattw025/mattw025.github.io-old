@@ -116,6 +116,7 @@ kramdown:
       start_line:           1
 
 # Includes & excludes
+<<<<<<< HEAD
 include:                    ['_pages', reveal.js]
 exclude:
   - bin
@@ -126,6 +127,10 @@ keep_files:
   - CNAME
   - .nojekyll
   - .git
+=======
+include:                    ['_pages']
+exclude:                    [vendor]
+>>>>>>> remove revealify
 
 # Plug-ins
 plugins:
@@ -136,14 +141,9 @@ plugins:
   - jekyll/scholar
   - jekyll-twitter-plugin
   - jemoji
-<<<<<<< HEAD
 
 # Extras
 github: [metadata]
-=======
-  # - bootstrap
-  # - material-sass
->>>>>>> remove nokogiri
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
