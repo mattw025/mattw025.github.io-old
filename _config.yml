@@ -136,6 +136,7 @@ plugins:
   - jekyll/scholar
   - jekyll-twitter-plugin
   - jemoji
+  - kramdown-parser-gfm
 
 # Extras
 github: [metadata]
